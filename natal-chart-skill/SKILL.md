@@ -96,7 +96,7 @@ city="New York"
 
 5. **Generate SVG visualization**:
    ```python
-   chart = KerykerionChartSVG(subject)
+   chart = KerykeionChartSVG(subject)
    chart.makeSVG()
    # SVG saved to: /root/{name} - Natal Chart.svg
    ```
